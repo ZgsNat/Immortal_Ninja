@@ -1,0 +1,4 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/Menu/Score/SorceMenu.uss?fileID=7433441132597879392&amp;guid=5f47872af344ff64daf03d17286aada7&amp;type=3#SorceMenu" />
+    <ui:Label text="Hello World! From UXML" name="Score" style="height: 101px; -unity-text-align: middle-center; justify-content: center; align-items: center; align-self: auto; font-size: 30px; -unity-font-style: bold; color: rgb(255, 255, 255);" />
+</ui:UXML>
