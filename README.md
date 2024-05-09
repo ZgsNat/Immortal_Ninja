@@ -3,6 +3,7 @@
 I. Introduction (Game story)
 The story is about a martial arts competition. The dojo is a place of fierce fighting between students. The main character is also a student in it. He wants to win and defeat everyone else. However, with his current strength, observation, understanding, and endurance, he has yet to reach perfection. HE WANTS MORE! So he decided to create a deadly training ground, with a sharp chainsaw that could cut his flesh whenever he was careless. He must observe their direction! Avoid! Parry! Counterattack! With just one small mistake, he can give up his dream. RUN OR DIE!
 (Presentation: https://www.canva.com/design/DAGAIVrNnx4/mP-2jiEma0XyzWbQm6Rhkg/edit?utm_content=DAGAIVrNnx4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 II. Design solution
 1. Characters and Sprites
   1.1 Ninja
