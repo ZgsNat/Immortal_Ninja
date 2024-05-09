@@ -17,9 +17,9 @@ II. Design solution
   1.5 Game Over
    ![image](https://github.com/ZgsNat/Immortal_Ninja/assets/88556390/0b3334f3-2760-434a-826f-bfebc150ace6)
 III. Game Play
-1. Guide
+  1. Guide
    ![image](https://github.com/ZgsNat/Immortal_Ninja/assets/88556390/ba300100-76fb-445e-90f8-11f72d9764eb)
-2. InGame Play
+  2. InGame Play
    ![image](https://github.com/ZgsNat/Immortal_Ninja/assets/88556390/503e8c86-7262-4135-944e-7ceb72b1a8f9)
 
 
